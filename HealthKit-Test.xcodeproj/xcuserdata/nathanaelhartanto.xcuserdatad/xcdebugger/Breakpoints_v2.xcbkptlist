@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "79CE15BB-6B7F-42DD-B2EC-4DE08BB7B710"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8A07F75A-8C24-4EA7-82BD-65EF2553DAF8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HealthKit-Test/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "latestWalkingStepLength()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8A07F75A-8C24-4EA7-82BD-65EF2553DAF8 - b8100e685ae52a8a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HealthKit_Test.ViewController.latestWalkingStepLength() -&gt; ()"
+                  moduleName = "HealthKit-Test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nathanaelhartanto/Documents/swift%20Testing/HealthKit-Test/HealthKit-Test/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "1006">
+               </Location>
+               <Location
+                  uuid = "8A07F75A-8C24-4EA7-82BD-65EF2553DAF8 - 53d0f066de0314d0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.HKSampleQuery, Swift.Optional&lt;Swift.Array&lt;__C.HKSample&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in HealthKit_Test.ViewController.latestWalkingStepLength() -&gt; ()"
+                  moduleName = "HealthKit-Test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nathanaelhartanto/Documents/swift%20Testing/HealthKit-Test/HealthKit-Test/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "92">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
